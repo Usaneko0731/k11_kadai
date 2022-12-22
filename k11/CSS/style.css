@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+*{
+    font-family: sans-serif;
+
+}
+header{
+    background-color: black;
+    text-align: center;
+}
+header h1{
+    padding-top: 30px;
+}
+ul{
+    display: flex;
+}
+li{
+    width: 100%;
+    text-align: center;
+    background-color: brown;
+}
